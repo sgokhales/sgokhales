@@ -1,5 +1,3 @@
-About me!
-
 ### Reproducibility in Finance - 'Settling the Size Matter' Paper  
 
 - Code: https://github.com/sgokhales/settling-the-size-matter  
