@@ -1,4 +1,4 @@
-Fun experiment: List of the financial literature with reproduced results.  
+My work on the replication of the results in the financial literature.  
 
 ### 'Settling the Size Matter' Paper  
 
