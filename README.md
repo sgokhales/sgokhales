@@ -1,6 +1,6 @@
 
 
-My work on the replication of the results in the financial literature.  
+My work on the replication of the results in the quantitative finance literature.  
 
 ### 'Settling the Size Matter' Paper  
 
